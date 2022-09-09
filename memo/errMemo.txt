@@ -1,0 +1,9 @@
+Target class [TestController] does not exist.
+↓
+routeの書き方が変わった
+https://www.tairaengineer-note.com/laravel-error-target-class-does-not-exist/
+
+The stream or file "/var/www/html/storage/logs/laravel.log" could not be opened in append mode:
+↓
+docker-compose exec [name] bash
+chmod 777 storage/ -R
